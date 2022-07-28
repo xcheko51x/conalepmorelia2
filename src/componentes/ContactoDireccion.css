@@ -1,0 +1,32 @@
+.contenedor-contactos .contenedor-informacion h3 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.7em;
+    text-align: center;
+    margin: 4%;
+}
+
+.contenedor-contactos .contenedor-informacion i:hover {
+    color: var(--color-gris-300);
+}
+
+.contenedor-contactos .contenedor-informacion {
+    width: 100%;
+    height: auto;
+    grid-column: 2 / 2;
+    text-align: start;
+    display: flex;   
+    flex-direction: column;
+}
+
+.contenedor-contactos .contenedor-informacion span {
+    font-family: Signika;
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+}
+
+.contenedor-contactos .contenedor-informacion i {
+    font-size: 1.5em;
+    margin: 2%;
+    color: var(--color-verde-400);
+}

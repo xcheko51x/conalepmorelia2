@@ -1,0 +1,28 @@
+.contenedor-titulo-perfil-egreso {
+    text-align: center;
+    margin: 4%;
+}
+
+.contenedor-titulo-perfil-egreso h2 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 4em;
+}
+
+
+.contenedor-titulo-perfil-egreso h3 {
+    margin-top: 0.7%;
+    font-size: 2em;
+}
+
+
+.contenedor-titulo-perfil-egreso span {
+    font-size: 1.5em;
+    font-family: 'Signika';
+    color: var(--color-verde-400);
+}
+
+.contenedor-perfiles-egreso {
+    width: 100%;
+    height: auto;
+    color: var(--color-gris-300);
+}

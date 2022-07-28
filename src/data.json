@@ -1,0 +1,103 @@
+{
+    "cabezal": "cabezal.png",
+    "navegacion": [
+        "Inicio",
+        "Oferta Educativa",
+        "Perfil de Egreso",
+        "Instalaciones",
+        "Contacto"
+    ],
+    "secciones": [
+        {
+            "nom_seccion": "Oferta Educativa",
+            "texto_seccion": "Formamos Líderes - y Profesionales Técnicos Bachiller en"
+        },
+        {
+            "nom_seccion": "Perfil de Egreso",
+            "texto_seccion": "Conoce un poco - de lo que aprenderas con nosotros"
+        },
+        {
+            "nom_seccion": "Instalaciones",
+            "texto_seccion": "Conoce nuestras instalaciones - con el recorrido virtual"
+        }
+
+    ],
+    "carreras": [
+        {
+            "nom_carrera": "Soporte y Mantenimiento de Equipo de Cómputo",
+            "perfil_egreso": [
+                "Identificar las características técnicas de componentes, equipos, dispositivos periféricos, sistemas y redes de cómputo mediante la interpretación de documentación técnica.",
+                "Validar la operación componentes, equipos, dispositivos periféricos, sistemas y redes de cómputo, mediante la medición de variables eléctricas y electrónicas.",
+                "Instalar sistemas de cableado estructurado, empelando diferentes tecnologías.",
+                "Manejar circuitos eléctricos básicos, identificando sus fundamentos y principios de operación.",
+                "Y MUCHAS COSAS MÁS"
+            ],
+            "abr_carrera": "SOMA"
+        },
+        {
+            "nom_carrera": "Informática",
+            "perfil_egreso": [
+                "Procesar y comunicar información, utilizando herramientas avanzadas para la elaboración de documentos digitales, para la expresión de ideas/proyectos y distribución de información.",
+                "Administrar áreas de tecnologías de información y comunicación, de acuerdo con las políticas y estándares de operación y gestión informática, para brindar servicios de procesos automatizados de información en una organización.",
+                "Implementar proyectos de software aplicativo para la automatización de procesos de la organización, cumpliendo con los requisitos definidos.",
+                "Diseñar y desarrollar proyectos de tecnología de información, para la generación de alternativas de solución, de los requerimientos del usuario.",
+                "Y MUCHAS COSAS MÁS"
+            ],
+            "abr_carrera": "INFO"
+        },
+        {
+            "nom_carrera": "Mantenimiento de Sistemas Electrónicos",
+            "perfil_egreso": [
+                "Operar sistemas electrónicos, mediante el uso de microprocesadores, microcontroladores e interfases.",
+                "Realizar trabajos de mantenimiento predictivo, preventivo y correctivo de sistemas electrónicos, considerando la orden de trabajo.",
+                "Operar elementos finales de control acoplados a sistemas electrónicos, considerando sus principios de funcionamiento.",
+                "Operar PLC’s, considerando los principios de automatización de sistemas electrónicos.",
+                "Instalar maquinaria y equipo electrónico, aplicando procedimientos preestablecidos por el fabricante.",
+                "dentificar las características técnicas de maquinaría, equipo y componentes electrónicos mediante la interpretación de documentación técnica.",
+                "Validar la operación de maquinaria y equipo, mediante la medición de variables eléctricas y electrónicas.",
+                "Y MUCHAS COSAS MÁS"
+            ],
+            "abr_carrera": "EKIN"
+        },
+        {
+            "nom_carrera": "Enfermería General",
+            "perfil_egreso": [
+                "Proporcionar cuidados de enfermería en situaciones críticas, de urgencia, con riesgo o en crisis vital, mediante métodos y técnicas de enfermería, considerando los aspectos éticos y legales que le permitan tomar decisiones desde su ámbito de competencia para favorecer la recuperación de la persona y prevenir complicaciones o en caso necesario favorecer una muerte digna.",
+                "Elaborar instrumentos administrativos relacionados con la gestión de los servicios de enfermería, de acuerdo con su nivel de responsabilidad, las políticas de salud vigentes y el sistema de gestión de calidad, orientados a la mejora continua del proceso de atención de enfermería.",
+                "Y MUCHAS COSAS MÁS"
+            ],
+            "abr_carrera": "ENFE"
+        }
+    ],
+    "contacto_redes_sociales": {
+        "text_titulo_seccion": "Contacto y Redes Sociales",
+        "text_seccion_redes": "Siguenos en nuestras redes sociales",
+        "text_seccion_direccion": "Puedes visitarnos y/o comunicarte al",
+        "direccion": "Juan A. Gutierrez S/N, - Col. Jardines de Guadalupe, 58140, Morelia, Mich.",
+        "icon_class_direccion": "fa-solid fa-location-dot",
+        "icon_class_telefono": "fa-solid fa-phone",
+        "telefono": "(443) 327 3168",
+        "redes_sociales": [
+            {
+                "nom_red_social": "Facebook",
+                "url_perfil": "https://www.facebook.com/CONALEPMORELIAIIOFICIAL",
+                "icon_class": "fa-brands fa-square-facebook"
+            },
+            {
+                "nom_red_social": "YouTube",
+                "url_perfil": "https://www.youtube.com/channel/UCQ40oKltPVdsnF1XLCuqyLQ",
+                "icon_class": "fa-brands fa-youtube"
+            },
+            {
+                "nom_red_social": "Instagram",
+                "url_perfil": "https://www.instagram.com/conalep.morelia.2/",
+                "icon_class": "fa-brands fa-instagram"
+            },
+            {
+                "nom_red_social": "TikTok",
+                "url_perfil": "https://www.tiktok.com/@conalepmoreliaiioficial",
+                "icon_class": "fa-brands fa-tiktok"
+            }
+        ]
+    }
+}

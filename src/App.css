@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Signika&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@600&display=swap');
+
+:root {
+    --color-gris-300: #dee2e6;
+    --color-verde-300: #4e9321;
+    --color-verde-400: #17755E;
+    --color-verde-500: #13322B;
+    --color-verde-600: #0C231E;
+    --color-dorador-400: #ffd60a;
+    --color-dorado-500: #ffc300;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #dee2e6;
+    font-size: 1em;
+}
+
+html,
+body {
+    background-color: var(--color-gris-300);
+}

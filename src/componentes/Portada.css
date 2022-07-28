@@ -1,0 +1,48 @@
+.contenedor-imagen-principal {
+    width: 100%;
+    height: calc(100vh - 140px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-imagen-principal::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: calc(100vh - 140px);
+    background-color: rgba(45, 45, 45, 0.6);
+}
+
+.contenedor-imagen-principal span {
+    position: absolute;
+    color: var(--color-gris-300);
+    font-size: 4em;
+    font-family: 'Fjalla One', sans-serif;
+    width: auto;
+    width: 15ch;
+    display: block;
+    white-space: nowrap;
+    border-right: 5px solid rgb(222, 226, 230);
+    animation: escribiendo 2s steps(15), parpadeo 0.4s infinite alternate;
+    overflow: hidden;
+}
+
+@keyframes escribiendo {
+    from {
+        width: 0;
+    }
+}
+
+@keyframes parpadeo {
+    70% {
+        border-color: transparent;
+    }
+}
+
+.contenedor-imagen-principal img {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

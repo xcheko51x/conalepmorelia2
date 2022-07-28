@@ -1,0 +1,23 @@
+.contenedor-contacto-redes-sociales .contenedor-redes-sociales {
+    width: 100%;
+    height: auto;
+    grid-column: 1 / 2;
+    text-align: center;
+}
+
+.contenedor-contacto-redes-sociales .contenedor-redes-sociales h3 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.7em;
+    text-align: center;
+    margin: 4%;
+}
+
+.contenedor-contacto-redes-sociales .contenedor-redes-sociales a {
+    font-size: 4em;
+    margin: 2%;
+    color: var(--color-verde-400);
+}
+
+.contenedor-contacto-redes-sociales .contenedor-redes-sociales a:hover {
+    color: var(--color-gris-300);
+}
