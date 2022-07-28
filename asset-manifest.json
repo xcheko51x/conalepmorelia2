@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/conalepmorelia2/static/css/main.647ce963.css",
+    "main.js": "/conalepmorelia2/static/js/main.53e0e786.js",
+    "static/media/portada.png": "/conalepmorelia2/static/media/portada.c857dc3f7c8f65ac2db3.png",
+    "static/media/carrera_ekin.jpg": "/conalepmorelia2/static/media/carrera_ekin.76515425f1da8fb593a1.jpg",
+    "static/media/carrera_enfe.jpg": "/conalepmorelia2/static/media/carrera_enfe.94640b780594cddce243.jpg",
+    "static/media/carrera_soma.jpg": "/conalepmorelia2/static/media/carrera_soma.e1bd3dfc7af8bb807ce1.jpg",
+    "static/media/carrera_info.jpg": "/conalepmorelia2/static/media/carrera_info.d0f4b84baade966f96bb.jpg",
+    "static/media/logo_gob_mich_gris.png": "/conalepmorelia2/static/media/logo_gob_mich_gris.7ac6b2e455038521ff7f.png",
+    "static/media/cabezal.png": "/conalepmorelia2/static/media/cabezal.2c47976d4c2030793fea.png",
+    "index.html": "/conalepmorelia2/index.html",
+    "main.647ce963.css.map": "/conalepmorelia2/static/css/main.647ce963.css.map",
+    "main.53e0e786.js.map": "/conalepmorelia2/static/js/main.53e0e786.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647ce963.css",
+    "static/js/main.53e0e786.js"
+  ]
+}
